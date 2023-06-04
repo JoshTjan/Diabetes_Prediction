@@ -1,5 +1,5 @@
 # Diabetes_Prediction
-In this project, I aim to predict the onset of diabetes based on diagnostic measures. We use a dataset that includes several medical predictor variables and one target variable, Outcome. Predictor variables include the number of pregnancies the patient has had, their BMI, insulin level, age, and more.
+In this project, I aim to predict the onset of diabetes based on diagnostic measures. I use a dataset that includes several medical predictor variables and one target variable, Outcome. Predictor variables include the number of pregnancies the patient has had, their BMI, insulin level, age, and more.
 
 Here's a summary of the steps I followed in this project:
 
